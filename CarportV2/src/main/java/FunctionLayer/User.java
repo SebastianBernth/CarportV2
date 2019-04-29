@@ -11,10 +11,4 @@ package FunctionLayer;
  */
 public class User {
     
-    public static void main(String[] args) {
-        
-        System.out.println("Hej Sebastian!");
-        System.out.println("Jeg tror jeg har fået det til at virke endeligt, FeelsGoodMan");
-        
-    }
 }
